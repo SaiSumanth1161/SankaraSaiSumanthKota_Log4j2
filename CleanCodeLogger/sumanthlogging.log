@@ -1,0 +1,16 @@
+2020-03-05 16:33:52 INFO  EstimatorMain:23 -User opted for Above Standard-Automation option
+2020-03-05 16:33:52 ERROR EstimatorMain:24 -Standard-Automation option is not available. So we are taking other values for calculation
+2020-03-05 16:33:52 INFO  EstimatorMain:8 -Method CalculateCost was called in AboveStandardChoice
+2020-03-05 16:33:52 INFO  EstimatorMain:28 -User opted for Above Standard option
+2020-03-05 16:33:52 INFO  EstimatorMain:13 -Method CalculateCost was called in AboveStandardChoice
+2020-03-05 16:33:52 INFO  CompundIntrest:10 -compound Intrest calculated
+2020-03-05 16:33:52 INFO  SimpleIntrest:10 -Simple Interest Calculated
+2020-03-05 16:33:52 INFO  EstimatorMain:38 -User opted for High Standard option
+2020-03-05 16:33:52 INFO  EstimatorMain:15 -Method CalculateCost was called in HighStandardChoice
+2020-03-05 16:33:52 INFO  EstimatorMain:34 -User opted for High Standard-Automation option
+2020-03-05 16:33:52 INFO  EstimatorMain:9 -Method CalculateCost was called in HighStandardChoice
+2020-03-05 16:33:52 INFO  EstimatorMain:17 -User opted for Standard option
+2020-03-05 16:33:52 INFO  EstimatorMain:15 -Method CalculateCost was called in StandardChoice
+2020-03-05 16:33:52 INFO  EstimatorMain:11 -User opted for Standard-Automation option
+2020-03-05 16:33:52 ERROR EstimatorMain:12 -Standard-Automation option is not available. So we are taking other values for calculation
+2020-03-05 16:33:52 INFO  EstimatorMain:9 -Method CalculateCost was called in StandardChoice
